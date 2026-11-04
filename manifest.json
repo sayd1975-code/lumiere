@@ -1,0 +1,17 @@
+{
+  "name": "Lumière — Studio Urody",
+  "short_name": "Lumière",
+  "description": "Studio urody Lumière w Katowicach — kosmetologia, rzęsy, brwi, makijaż. Projekt pokazowy.",
+  "lang": "pl",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#faf7f2",
+  "theme_color": "#faf7f2",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon-mask.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}

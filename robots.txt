@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sayd1975-code.github.io/lumiere/sitemap.xml
