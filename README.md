@@ -30,7 +30,7 @@ o-nas.html      — historia, zespół, wartości
 oferta.html     — cennik w 5 kategoriach
 galeria.html    — siatka 9 kafli + lightbox
 kontakt.html    — dane, godziny, formularz, Booksy
-css/style.css   — design system (ivory + rose gold)
+css/style.css   — design system (ciemny granat + bursztyn)
 js/main.js      — interakcje (wspólny dla podstron)
 sw.js           — service worker (offline)
 manifest.json   — PWA

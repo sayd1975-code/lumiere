@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect width="512" height="512" rx="96" fill="#faf7f2"/>
-  <circle cx="256" cy="256" r="196" fill="none" stroke="#e9c7c3" stroke-width="10"/>
-  <text x="256" y="332" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="260" font-style="italic" fill="#b76e79">L</text>
-  <circle cx="368" cy="132" r="18" fill="#c99e7c"/>
-  <circle cx="128" cy="392" r="12" fill="#e9c7c3"/>
+  <rect width="512" height="512" rx="96" fill="#020617"/>
+  <circle cx="256" cy="256" r="196" fill="none" stroke="#1e293b" stroke-width="10"/>
+  <text x="256" y="332" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="260" font-style="italic" fill="#fbbf24">L</text>
+  <circle cx="368" cy="132" r="18" fill="#d97706"/>
+  <circle cx="128" cy="392" r="12" fill="#334155"/>
 </svg>
