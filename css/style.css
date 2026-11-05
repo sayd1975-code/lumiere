@@ -737,6 +737,7 @@ main.page[hidden] { display: none; }
 
 .g-item__caption {
   background: linear-gradient(180deg, transparent, rgba(2, 6, 23, 0.82));
+  color: #f8fafc;
 }
 
 .lightbox { background: rgba(2, 6, 23, 0.95); }
@@ -752,7 +753,6 @@ main.page[hidden] { display: none; }
   border-bottom-color: #f87171;
 }
 
-.nav { box-shadow: -20px 0 50px rgba(0, 0, 0, 0.55); }
 body.nav-open::after { background: rgba(2, 6, 23, 0.6); }
 
 .site-footer {
@@ -784,5 +784,5 @@ body.nav-open::after { background: rgba(2, 6, 23, 0.6); }
 .team-card__art { border-color: #fbbf24; }
 
 @media (max-width: 860px) {
-  .nav { background: #0f172a; }
+  .nav { background: #0f172a; box-shadow: -20px 0 50px rgba(0, 0, 0, 0.55); }
 }
