@@ -1,5 +1,5 @@
 /* Lumière — service worker (offline cache) */
-const CACHE_NAME = "lumiere-v4";
+const CACHE_NAME = "lumiere-v5";
 const ASSETS = [
   "./",
   "./index.html",
